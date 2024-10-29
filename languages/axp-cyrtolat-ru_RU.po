@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AXP Cyrillic to Latin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-01 18:42+0000\n"
+"PO-Revision-Date: 2017-01-01 18:47+0000\n"
+"Last-Translator: glaswr <all-plays@yandex.ru>\n"
+"Language-Team: Russian\n"
+"Language: ru-RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: axp-cyrtolat.php:72
+msgid "Cyrillic to Latin"
+msgstr ""
+
+#. Name of the plugin
+msgid "AXP Cyrillic to Latin"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/axp-dev/axp-cyrtolat"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/axp-dev"
+msgstr ""
+
+#: axp-cyrtolat.php:71
+msgid "Cyrillic to Latin Settings"
+msgstr "Cyrillic to Latin настройки"
+
+#: axp-cyrtolat.php:41
+msgid "None"
+msgstr "Нет"
+
+#: axp-cyrtolat.php:42
+msgid "GOST 16876-71"
+msgstr "ГОСТ 16876-71"
+
+#: axp-cyrtolat.php:45
+msgid "Yandex"
+msgstr "Яндекс"
+
+#: axp-cyrtolat.php:85
+msgid "Settings"
+msgstr "Настройки"
+
+#: axp-cyrtolat.php:92
+msgid "Type Transliteration"
+msgstr "Тип транслитерации"
+
+#: axp-cyrtolat.php:98
+msgid "Select standard"
+msgstr "Выберите стандарт"
+
+#: axp-cyrtolat.php:167
+msgid "Donate"
+msgstr "Поддержать"
+
+#: axp-cyrtolat.php:168
+msgid "Contact the author"
+msgstr "Связаться с автором"
+
+#: axp-cyrtolat.php:169
+msgid "Other plugins by author"
+msgstr "Другие плагины от автора"
+
+#. Description of the plugin
+msgid "Converts Cyrillic characters in post slugs to Latin characters"
+msgstr "Преобразует символы кириллицы в латинские символы"
+
+#. Author of the plugin
+msgid "Alexander Pushkarev"
+msgstr "Александр Пушкарёв"

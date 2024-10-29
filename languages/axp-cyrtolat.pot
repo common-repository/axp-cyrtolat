@@ -1,0 +1,79 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-01 18:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: axp-cyrtolat.php:41
+msgid "None"
+msgstr ""
+
+#: axp-cyrtolat.php:42
+msgid "GOST 16876-71"
+msgstr ""
+
+#: axp-cyrtolat.php:45
+msgid "Yandex"
+msgstr ""
+
+#: axp-cyrtolat.php:71
+msgid "Cyrillic to Latin Settings"
+msgstr ""
+
+#: axp-cyrtolat.php:72
+msgid "Cyrillic to Latin"
+msgstr ""
+
+#: axp-cyrtolat.php:85
+msgid "Settings"
+msgstr ""
+
+#: axp-cyrtolat.php:92
+msgid "Type Transliteration"
+msgstr ""
+
+#: axp-cyrtolat.php:98
+msgid "Select standard"
+msgstr ""
+
+#: axp-cyrtolat.php:167
+msgid "Donate"
+msgstr ""
+
+#: axp-cyrtolat.php:168
+msgid "Contact the author"
+msgstr ""
+
+#: axp-cyrtolat.php:169
+msgid "Other plugins by author"
+msgstr ""
+
+#. Name of the plugin
+msgid "AXP Cyrillic to Latin"
+msgstr ""
+
+#. Description of the plugin
+msgid "Converts Cyrillic characters in post slugs to Latin characters"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/axp-dev/axp-cyrtolat"
+msgstr ""
+
+#. Author of the plugin
+msgid "Alexander Pushkarev"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/axp-dev"
+msgstr ""
